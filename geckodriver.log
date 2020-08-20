@@ -1,0 +1,6 @@
+1597824819301	geckodriver	INFO	Listening on 127.0.0.1:53095
+1597824820319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jy/2m46sw4n3cd1txd1054sw9n80000gn/T/rust_mozprofilePiZbBK"
+*** You are running in headless mode.
+1597824822431	Marionette	INFO	Listening on port 53106
+1597824822516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597824824820	Marionette	INFO	Stopped listening on port 53106
